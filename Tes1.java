@@ -1,2 +1,0 @@
-welocme to devops
-
